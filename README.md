@@ -69,9 +69,9 @@
 
 |  Framework |  Version |Supported | Status  | Confidence Level  |
 |---|---|---|---|---|
-|FastAPI| |   | Not Tested | Not Sure  |
-| Flask| |  |  Not Tested | Not Sure   |
-| Django| |  |  Not Tested | Not Sure   |
-| Pyramid| |  |  Not Tested | Not Sure   |
+|FastAPI| |  Yes |  Tested | Will Work  |
+| Flask| | Yes |   Tested | Will Work   |
+| Django| | Yes |   Tested | Will Work   |
+| Pyramid| | Yes  |   Tested | Will Work   |
 | gRPC| |  |  Not Tested | Not Sure   |
 
