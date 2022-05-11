@@ -55,3 +55,23 @@
 | Zend Engine 3.2 |7.2 | Yes  |  Tested | Will Work   |
 | Zend Engine 3.1 |7.1 |   |  Not Tested | Not Sure   |
 
+**NodeJs**
+
+|  Framework |  Version | Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Default| 17|   |  Not Tested | Not Sure  |
+|Default| 16|   |  Not Tested | Not Sure  |
+|Default| 14|   |  Not Tested | Not Sure  |
+|Default| 12|   |  Not Tested | Not Sure  |
+| Express Framework |4.17.1 |   | Tested | Will Work   |
+
+**Python**
+
+|  Framework |  Version |OS |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|FastAPI| |   | | Not Tested | Not Sure  |
+| Flask| |  | |  Not Tested | Not Sure   |
+| Django| |  | |  Not Tested | Not Sure   |
+| Pyramid| |  | |  Not Tested | Not Sure   |
+| gRPC| |  | |  Not Tested | Not Sure   |
+
