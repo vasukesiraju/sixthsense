@@ -24,4 +24,15 @@
 | Amazon Corretto  | 11  |  Not Planned |  Not Tested | Should work  |
 | Amazon Corretto | 17  | Not Planned|  Not Tested | Might work  |
 
-Oracle Support Roadmap: https://www.oracle.com/java/technologies/java-se-support-roadmap.html 
+
+**.Net**
+
+|  Runtimes |  Version | Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+| .Net Framework| 4.5.1 |   |  Not Tested | Not Sure  |
+| .Net Framework | 4.5 |   |  Not Tested | Not Sure   |
+| .Net Framework | 3.5 |   |  Not Tested |  |
+| .Net Core | 6 |   |  Not Tested |  |
+| .Net Core | 5 |   |  Not Tested | |
+| .Net Core | 3.1 |   |  Not Tested |  |
+| .Net Core | 3.0 |   |  Not Tested |  |
