@@ -67,11 +67,11 @@
 
 **Python**
 
-|  Framework |  Version |OS |Supported | Status  | Confidence Level  |
+|  Framework |  Version |Supported | Status  | Confidence Level  |
 |---|---|---|---|---|
-|FastAPI| |   | | Not Tested | Not Sure  |
-| Flask| |  | |  Not Tested | Not Sure   |
-| Django| |  | |  Not Tested | Not Sure   |
-| Pyramid| |  | |  Not Tested | Not Sure   |
-| gRPC| |  | |  Not Tested | Not Sure   |
+|FastAPI| |   | Not Tested | Not Sure  |
+| Flask| |  |  Not Tested | Not Sure   |
+| Django| |  |  Not Tested | Not Sure   |
+| Pyramid| |  |  Not Tested | Not Sure   |
+| gRPC| |  |  Not Tested | Not Sure   |
 
