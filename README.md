@@ -36,3 +36,22 @@
 | .Net Core | 5 |   |  Not Tested | |
 | .Net Core | 3.1 |   |  Not Tested |  |
 | .Net Core | 3.0 |   |  Not Tested |  |
+
+**Go**
+
+|  Framework |  Version | Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+| Gin Framework| 1.5.0|   |  Not Tested | Not Sure  |
+| Mux/Gorilla Framework | |   |  Not Tested | Not Sure   |
+
+**PHP**
+
+|  Framework |  Version | Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+| Zend Engine 4.1| 8.1|   |  Not Tested | Not Sure  |
+| MZend Engine 4.0 |8.0 |   |  Not Tested | Not Sure   |
+| Zend Engine 3.4| 7.4|   |  Not Tested | Not Sure  |
+| Zend Engine 3.3 |7.3 |   |  Not Tested | Not Sure   |
+| Zend Engine 3.2 |7.2 | Yes  |  Tested | Will Work   |
+| Zend Engine 3.1 |7.1 |   |  Not Tested | Not Sure   |
+
