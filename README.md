@@ -11,5 +11,17 @@
 | Oracle JVM | 8  |  Yes |  Tested | Will work  |
 | Oracle JVM | 11  |  Yes |  Not Tested | Should work  |
 | Oracle JVM | 17  |  Q2 2022 |  Not Tested | Might work  |
+| RedHat OpenJDK | 6 |  Yes |  Not Tested | Might work  |
+| RedHat OpenJDK  | 7 |  Yes |  Not Tested | Should work  |
+| RedHat OpenJDK  | 8  |  Yes |  Not Tested | Will work  |
+| RedHat OpenJDK  | 11  |  Yes |  Not Tested | Should work  |
+| RedHat OpenJDK | 17  |  Q2 2022 |  Not Tested | Might work  |
+| SAP JVM  | 7 |  Not Planned |  Not Tested | Should work  |
+| SAP JVM  | 8  |  Not Planned |  Not Tested | Will work  |
+| SAP JVM  | 11  |  Not Planned |  Not Tested | Should work  |
+| SAP JVM  | 17  | Not Planned |  Not Tested | Might work  |
+| Amazon Corretto| 7 |  Not Planned |  Not Tested | Might work  |
+| Amazon Corretto  | 11  |  Not Planned |  Not Tested | Should work  |
+| Amazon Corretto | 17  | Not Planned|  Not Tested | Might work  |
 
 Oracle Support Roadmap: https://www.oracle.com/java/technologies/java-se-support-roadmap.html 
