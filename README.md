@@ -1,1 +1,1 @@
-# sixthsense
+# SixthSense Supported Technologies
