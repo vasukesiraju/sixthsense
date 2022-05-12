@@ -109,3 +109,20 @@
 | Envoy|  | No |   Not Tested | Not Sure |
 
 
+**Databases**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|MYSQL| 5.x, 8.x|  Yes |  Tested | Will Work  |
+|Elasticsearch| 7.x|  Yes |  Tested | Will Work  |
+|MongoDB| 2.x, 3.x, 4.x|  Yes |  Tested | Will Work  |
+| ActiveMQ|  | No |   Not Tested | Not Sure |
+| Cassandra|  | No |   Not Tested | Not Sure |
+| CouchDB|  | No |   Not Tested | Not Sure |
+| Couchbase|  | No |   Not Tested | Not Sure |
+| Hadoop|  | No |   Not Tested | Not Sure |
+| PostgreSQL|  | No |   Not Tested | Not Sure |
+| RabbitMQ|  | No |   Not Tested | Not Sure |
+| Redis|  | No |   Not Tested | Not Sure |
+| Oracle|  | No |   Not Tested | Not Sure |
+| SAP HANA|  | No |   Not Planned | Won't Work |
