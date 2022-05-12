@@ -116,13 +116,32 @@
 |MYSQL| 5.x, 8.x|  Yes |  Tested | Will Work  |
 |Elasticsearch| 7.x|  Yes |  Tested | Will Work  |
 |MongoDB| 2.x, 3.x, 4.x|  Yes |  Tested | Will Work  |
-| ActiveMQ|  | No |   Not Tested | Not Sure |
 | Cassandra|  | No |   Not Tested | Not Sure |
 | CouchDB|  | No |   Not Tested | Not Sure |
 | Couchbase|  | No |   Not Tested | Not Sure |
 | Hadoop|  | No |   Not Tested | Not Sure |
 | PostgreSQL|  | No |   Not Tested | Not Sure |
-| RabbitMQ|  | No |   Not Tested | Not Sure |
 | Redis|  | No |   Not Tested | Not Sure |
 | Oracle|  | No |   Not Tested | Not Sure |
 | SAP HANA|  | No |   Not Planned | Won't Work |
+
+**Frameworks, Extensions & Other Technologies**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Spark||  Yes |  Tested | Will Work  |
+| ActiveMQ|  | No |   Not Tested | Not Sure |
+| RabbitMQ|  | No |   Not Tested | Not Sure |
+|JMS| |  Yes |   |   |
+|WSO2 API Manager| |  Yes |  Tested | Will Work  |
+|Kafka| |  Yes |  Not Tested | Will Work  |
+|HAProxy| |  Yes |   |  |
+|Apache Solr| |  Yes |   |   |
+|CoreDNS| |  Yes |   |  |
+|Tibco EMS| |  Yes |   |   |
+|Log4J2 (Apache)| |  Yes |   |  |
+|Netty| |  Yes |   |   |
+
+
+
+
