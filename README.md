@@ -143,7 +143,7 @@
 |Netty| |  Yes |   |   |
 
 
-**Browser Monitoring**
+**Browser Monitoring & Synthetic Monitoring**
 
 **Browsers**
 |  Name |  Version |Supported | Status  | Confidence Level  |
