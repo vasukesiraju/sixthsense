@@ -75,3 +75,17 @@
 | Pyramid| | Yes  |   Tested | Will Work   |
 | gRPC| |  |  Not Tested | Not Sure   |
 
+
+**Application Servers**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Glassfish| 5.1.0|  Yes |  Tested | Will Work  |
+| Payara| 4.1.1 | Yes |   Tested | Will Work   |
+| Jetty|9.4.28.v2020040 | Yes |   Tested | Will Work   |
+| PHP FPM App server|7.2 | Yes  |   Tested | Will Work   |
+| JBoss|  | Yes |   Tested | Will Work   |
+| Weblogic|9.4.28.v2020040 | Yes |   Tested | Will Work   |
+| Websphere|7.2 | Yes  |   Tested | Will Work   |
+| Glassfish| |  |  Not Tested | Not Sure   |
+| Apache Geronimo| |  |  Not Tested | Not Sure   |
