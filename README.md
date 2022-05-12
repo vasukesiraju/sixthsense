@@ -175,10 +175,17 @@
 |MooTools|1.4.5 - 1.6.0|  No |  Not Tested | |
 |Prototype|1.6, 1.7.x|  No |  Not Tested | |
 |Sencha Touch||  No |  Not Tested | |
+	
 
-	
-	
-	
+**Mobile Monitoring**
+
+**Operating Systems**
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Android|5 & above|  Yes |  Tested | Will Work  |	
+|iOS|11 & above|  Yes |  Tested | Will Work  |
+|Windows||  Won't Support |  - | - |	
+
 	
 	
 	
