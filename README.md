@@ -253,3 +253,17 @@
 |Windows Desktop||  Planned Q32022 |  - | - |
 |Windows Server||  No |  - | - |
 |Windows Server - Nano||  No |  - | - |
+
+**Kubernates Container Platforms**
+
+|  Name|  Managed By |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Native Kubernates|Self Managed|  Yes |  Tested | Will Work  |
+|Google Kubernetes Engine|Cloud Provider|  Yes |  Tested | Will Work  |
+|Azure Kubernetes Service|Cloud Provider|  Planned Q32022 |  - | - |
+|Amazon Elastic Kubernetes Service|Cloud Provider|  Yes |  Tested | Will Work  |
+|Google Anthos|Self Managed|  |  - | - |
+|IBM Kubernetes Service|Cloud Provider|  |  - | - |
+|RedHat OpenShift Service on AWS|Cloud Provider|  |  - | - |
+|Oracle Container Engine for Kubernetes|Self Managed|  |  - | - |
+|Red Hat OpenShift Container Platform|Self Managed|  |  - | - |
