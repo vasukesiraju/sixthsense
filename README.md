@@ -143,5 +143,22 @@
 |Netty| |  Yes |   |   |
 
 
+**Browser Monitoring**
+
+**Browsers**
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Google Chrome||  Yes |  Tested | Will Work  |
+|Mozilla Firefox||  Yes |  Tested | Will Work  |
+|Apple Safari||  Yes |  Tested | Will Work  |
+|Microsoft Edge||  Yes |  Tested | Will Work  |
+|Opera||  Yes |  Tested | Will Work  |
+|Microsoft Internet Explorer||  Yes |  Not Tested | Should Work  |
+|Android Browser||   |  Not Tested | Should Work  |
+|Brave||   |  Not Tested | Should Work  |
+|Vivaldi||   |  Not Tested | Should Work  |
+|UC Browser||   |  Not Tested | Should Work  |
+|Chromium||  Yes |  Not Tested | Should Work  |
+|Epic||  No |  Not Tested | Should Work  |
 
 
