@@ -96,7 +96,9 @@
 |---|---|---|---|---|
 |Apache Tomcat| |  Yes |  Tested | Will Work  |
 | Nginx|  | Yes |   Tested | Will Work   |
-| Boa Webserver:| | No |   Not Tested | Won't Work   |
+| Boa Webserver| | No |   Not Tested | Won't Work   |
 |Microsoft's Web Server| | Yes  |   Tested | Will Work   |
 | Savant|  | No |   Not Tested | Not Sure |
+| LiteSpeed|  | No |   Not Tested | Not Sure |
+| OpenResty|  | No |   Not Tested | Not Sure |
 
