@@ -161,4 +161,25 @@
 |Chromium||  Yes |  Not Tested | Should Work  |
 |Epic||  No |  Not Tested | Should Work  |
 
+**JavaScript Frameworks**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Angular|11.1.1|  Yes |  Tested | Will Work  |
+|React|17.01|  Yes |  Tested | Will Work  |
+|Plain JavaScript|EC5, EC6|  Yes |  Tested | Will Work  |
+|Dojo|1.6.1 - 1.13.x|  No |  Not Tested | |
+|Ext JS|3.4, 4, 5, 6.x|  No |  Not Tested | |
+|ICEfaces|1.8, 2, 3|  No |  Not Tested | |
+|jQuery ( Backbone.js )|1.3 - 1.12, 2.0 - 2.2, 3.0 - 3.3.x|  No |  Not Tested | |
+|MooTools|1.4.5 - 1.6.0|  No |  Not Tested | |
+|Prototype|1.6, 1.7.x|  No |  Not Tested | |
+|Sencha Touch||  No |  Not Tested | |
+
+	
+	
+	
+	
+	
+	
 
