@@ -261,7 +261,7 @@
 |Native Kubernates|Self Managed|  Yes |  Tested | Will Work  |
 |Google Kubernetes Engine|Cloud Provider|  Yes |  Tested | Will Work  |
 |Azure Kubernetes Service|Cloud Provider|  Planned Q32022 |  - | - |
-|Amazon Elastic Kubernetes Service|Cloud Provider|  Yes |  Tested | Will Work  |
+|Amazon Elastic Kubernetes Service|Cloud Provider|  - |  - | - |
 |Google Anthos|Self Managed|  |  - | - |
 |IBM Kubernetes Service|Cloud Provider|  |  - | - |
 |RedHat OpenShift Service on AWS|Cloud Provider|  |  - | - |
