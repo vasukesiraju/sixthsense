@@ -204,3 +204,22 @@
 |Xamarin.Forms||  Not Planned |  - | - |
 |React Native|0.59+|  Not Planned |  - | - |
 |Flutter|1.12.0+|  Not Planned |  - | - |
+
+
+**Database Monitoring**
+
+**Databases**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|MYSQL| 5.x, 8.x|  Yes |  Tested | Will Work  |
+|Elasticsearch| 7.x|  Yes |  Tested | Will Work  |
+|MongoDB| 2.x, 3.x, 4.x|  Yes |  Tested | Will Work  |
+| Cassandra|  | No |   Not Tested | Not Sure |
+| CouchDB|  | No |   Not Tested | Not Sure |
+| Couchbase|  | No |   Not Tested | Not Sure |
+| Hadoop|  | No |   Not Tested | Not Sure |
+| PostgreSQL|  | No |   Not Tested | Not Sure |
+| Redis|  | No |   Not Tested | Not Sure |
+| Oracle|  | No |   Not Tested | Not Sure |
+| SAP HANA|  | No |   Not Planned | Won't Work |
