@@ -84,21 +84,28 @@
 | Payara| 4.1.1 | Yes |   Tested | Will Work   |
 | Jetty|9.4.28.v2020040 | Yes |   Tested | Will Work   |
 | PHP FPM App server|7.2 | Yes  |   Tested | Will Work   |
-| JBoss|  | Yes |   Tested | Will Work   |
-| Weblogic|9.4.28.v2020040 | Yes |   Tested | Will Work   |
-| Websphere|7.2 | Yes  |   Tested | Will Work   |
-| Glassfish| |  |  Not Tested | Not Sure   |
-| Apache Geronimo| |  |  Not Tested | Not Sure   |
+| JBoss Enterprise|  | Yes |   Tested | Will Work   |
+| Oracle Weblogic|| Yes |   Tested | Will Work   |
+| IBM Websphere|7.2 | Yes  |   Tested | Will Work   |
+| Apache Tomcat| |  |  Not Tested | Not Sure   |
+| Apache TomEE| |  |  Not Tested | Not Sure   |
+| Fujitsu Interstage| |  |  Not Tested | Not Sure   |
+| IBM WebSphere Liberty| |  |  Not Tested | Not Sure   |
+| WildFly| |  |  Not Tested | Not Sure   |
+
 
 **Web Servers**
 
 |  Name |  Version |Supported | Status  | Confidence Level  |
 |---|---|---|---|---|
-|Apache Tomcat| |  Yes |  Tested | Will Work  |
+|Apache HTTP Server| |  Yes |  Tested | Will Work  |
 | Nginx|  | Yes |   Tested | Will Work   |
+| Nginx Plus|  | Yes |   Tested | Will Work   |
 | Boa Webserver| | No |   Not Tested | Won't Work   |
 |Microsoft's Web Server| | Yes  |   Tested | Will Work   |
 | Savant|  | No |   Not Tested | Not Sure |
 | LiteSpeed|  | No |   Not Tested | Not Sure |
 | OpenResty|  | No |   Not Tested | Not Sure |
+| Envoy|  | No |   Not Tested | Not Sure |
+
 
