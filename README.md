@@ -186,6 +186,21 @@
 |iOS|11 & above|  Yes |  Tested | Will Work  |
 |Windows||  Won't Support |  - | - |	
 
+**Frameworks**	
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|AFNetworking|3.x|  Yes |  Tested | Will Work  |	
+|OkHttp|3,4|  Yes |  Tested | Will Work  |
+|Apache Cordova|3.x+|  Not Planned |  - | - |		
+|Custom WebViews||  Not Planned |  - | - |	
+|DexGuard||  Not Planned |  - | - |	
+|PhoneGap|2.9.1+|  Not Planned |  - | - |	
+|Xamarin.iOS||  Not Planned |  - | - |
+|Xamarin.Android||  Not Planned |  - | - |
+|Xamarin.Forms||  Not Planned |  - | - |
+|React Native|0.59+|  Not Planned |  - | - |
+|Flutter||  Not Planned |  - | - |
+	
 	
 	
 	
