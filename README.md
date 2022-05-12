@@ -246,10 +246,10 @@
 |Oracle Linux||  No |  - | - |
 |SUSE Linux Enterprise Server	||  No |  - | - |
 |openSUSE||  No |  - | - |
-|**Unix**||  No |  - | - |
+|**Unix**||   |   |  |
 |Solaris||  No |  - | - |
 |IBM AIX||  No |  - | - |
-|**Windows**||  Planned Q32022 |  - | -  |
-|Windows Desktop||  No |  - | - |
+|**Windows**||   |   |   |
+|Windows Desktop||  Planned Q32022 |  - | - |
 |Windows Server||  No |  - | - |
 |Windows Server - Nano||  No |  - | - |
