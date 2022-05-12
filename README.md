@@ -191,6 +191,10 @@
 |---|---|---|---|---|
 |AFNetworking|3.x|  Yes |  Tested | Will Work  |	
 |OkHttp|3,4|  Yes |  Tested | Will Work  |
+|Android Gradle Plugin|4.2.0+|  Yes |  Tested | Will Work  |	
+|Gradle version|6.7.1+|  Yes |  Tested | Will Work  |
+|React Native|0.59+|  Not Planned |  - | - |
+|Flutter|1.12.0+|  Not Planned |  - | - |
 |Apache Cordova|3.x+|  Not Planned |  - | - |		
 |Custom WebViews||  Not Planned |  - | - |	
 |DexGuard||  Not Planned |  - | - |	
@@ -199,9 +203,4 @@
 |Xamarin.Android||  Not Planned |  - | - |
 |Xamarin.Forms||  Not Planned |  - | - |
 |React Native|0.59+|  Not Planned |  - | - |
-|Flutter||  Not Planned |  - | - |
-	
-	
-	
-	
-
+|Flutter|1.12.0+|  Not Planned |  - | - |
