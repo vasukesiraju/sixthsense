@@ -224,3 +224,32 @@
 | Redis|  | No |   Not Tested | |
 | Oracle|  | No |   Not Tested | |
 | SAP HANA|  | No |   Not Planned ||
+
+
+**Infrastructure Monitoring**
+
+**Virtual Machines**
+
+|  Operating System |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+| **Linux** ||   |   |  |
+|RedHat Linux Enterprise|4.x|  Yes |  Tested | Will Work  |
+|CentOS Linux|7|  Yes |  Tested | Will Work  |
+|Ubuntu|20|  Yes |  Tested | Will Work  |
+|Alpine Linux||  No |  - | - |
+|Amazon Linux||  No |  - | - |
+|Amazon Linux AMI||  No |  - | - |
+|Bottlerocket||  No |  - | - |
+|Debian||  No |  - | - |
+|EulerOS||  No |  - | - |
+|Fedora||  No |  - | - |
+|Oracle Linux||  No |  - | - |
+|SUSE Linux Enterprise Server	||  No |  - | - |
+|openSUSE||  No |  - | - |
+|**Unix**||  No |  - | - |
+|Solaris||  No |  - | - |
+|IBM AIX||  No |  - | - |
+|**Windows**||  Planned Q32022 |  - | -  |
+|Windows Desktop||  No |  - | - |
+|Windows Server||  No |  - | - |
+|Windows Server - Nano||  No |  - | - |
