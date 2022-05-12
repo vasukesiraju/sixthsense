@@ -89,3 +89,14 @@
 | Websphere|7.2 | Yes  |   Tested | Will Work   |
 | Glassfish| |  |  Not Tested | Not Sure   |
 | Apache Geronimo| |  |  Not Tested | Not Sure   |
+
+**Web Servers**
+
+|  Name |  Version |Supported | Status  | Confidence Level  |
+|---|---|---|---|---|
+|Apache Tomcat| |  Yes |  Tested | Will Work  |
+| Nginx|  | Yes |   Tested | Will Work   |
+| Boa Webserver:| | No |   Not Tested | Won't Work   |
+|Microsoft's Web Server| | Yes  |   Tested | Will Work   |
+| Savant|  | No |   Not Tested | Not Sure |
+
