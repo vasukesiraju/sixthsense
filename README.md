@@ -29,6 +29,7 @@
 
 |  Runtimes |  Version | Supported | Status  | Confidence Level  |
 |---|---|---|---|---|
+| .Net Framework| 4.6.2 |   |  Tested | Will work  |
 | .Net Framework| 4.5.1 |   |  Not Tested | Not Sure  |
 | .Net Framework | 4.5 |   |  Not Tested | Not Sure   |
 | .Net Framework | 3.5 |   |  Not Tested |  |
@@ -36,6 +37,7 @@
 | .Net Core | 5 |   |  Not Tested | |
 | .Net Core | 3.1 |   |  Not Tested |  |
 | .Net Core | 3.0 |   |  Not Tested |  |
+| .Net Core | 3.2 |   |  Tested | Will work|
 
 **Go**
 
