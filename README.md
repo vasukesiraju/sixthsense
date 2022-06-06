@@ -118,6 +118,7 @@
 |MYSQL| 5.x, 8.x|  Yes |  Tested | Will Work  |
 |Elasticsearch| 7.x|  Yes |  Tested | Will Work  |
 |MongoDB| 2.x, 3.x, 4.x|  Yes |  Tested | Will Work  |
+| Maria DB| 10.6 | Yes | Tested | Will Work |
 | Cassandra|  | No |   Not Tested | Not Sure |
 | CouchDB|  | No |   Not Tested | Not Sure |
 | Couchbase|  | No |   Not Tested | Not Sure |
